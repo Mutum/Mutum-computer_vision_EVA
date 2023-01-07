@@ -19,5 +19,5 @@ Network summary:
 - Then followed by 2 FC layer 
 - Lastly two prediction out for MNIST and SUM 
 
-cross_entropy loss function were used 
-Accuracy metrics for both the MNIST and SUM were produced
+- cross_entropy loss function were used 
+- Accuracy metrics for both the MNIST and SUM were produced
