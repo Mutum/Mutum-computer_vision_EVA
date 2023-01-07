@@ -21,3 +21,7 @@ Network summary:
 
 - cross_entropy loss function were used 
 - Accuracy metrics for both the MNIST and SUM were produced
+
+Training output:
+<img width="1242" alt="training_output" src="https://user-images.githubusercontent.com/8687204/211121317-7cad0f36-d0b6-416a-8aac-444fa9c37bdf.png">
+
